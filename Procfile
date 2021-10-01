@@ -1,1 +1,1 @@
-web: gunicorn clientes.wsgi
+web: gunicorn setup.wsgi
