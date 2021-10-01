@@ -11,3 +11,4 @@ Utilizado o Django Rest FrameWork para criar uma api de clientes com:
   - Ordenação
   - Filtro
   - Validação de campos
+  - Paginação
